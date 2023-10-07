@@ -1,0 +1,8 @@
+numpy
+uproot
+matplotlib
+feynman
+pandas
+pymcabc~=1.1
+notebook~=6.0
+jupyterlab~=4.0
