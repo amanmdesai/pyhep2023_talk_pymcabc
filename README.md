@@ -15,5 +15,6 @@
 
 ## Launch With Binder:
 
-[![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/amanmdesai/pyhep2023_talk_pymcabc/HEAD)
+SSL Binder: [![SSL Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/amanmdesai/pyhep2023_talk_pymcabc/HEAD)
 
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amanmdesai/pyhep2023_talk_pymcabc/HEAD)
