@@ -1,5 +1,6 @@
 # PyHEP 2023 talk  
 # pymcabc: A Particle Physics Toy Toolbox for the ABC Model
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8435818.svg)](https://doi.org/10.5281/zenodo.8435818)
 
 **Author: Aman Desai**
 
